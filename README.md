@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-02): 51 quakes
+## Last 24 hours (2026-11-03): 31 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 6.0 | [165 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl) | 2026-11-01 11:47 | 10 km |
-| 2 | 5.1 | [19 km WNW of Tomohon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy) | 2026-11-02 08:13 | 197 km |
-| 3 | 5.1 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4) | 2026-11-02 01:18 | 10 km |
-| 4 | 5.1 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv) | 2026-11-02 00:53 | 94 km |
-| 5 | 5.1 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk) | 2026-11-01 17:11 | 108 km |
-| 6 | 5.0 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqx) | 2026-11-01 18:34 | 10 km |
-| 7 | 4.9 | [175 km WNW of Panguna, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0) | 2026-11-02 05:19 | 88 km |
-| 8 | 4.8 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0) | 2026-11-01 18:53 | 10 km |
-| 9 | 4.8 | [203 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq) | 2026-11-01 12:08 | 10 km |
-| 10 | 4.8 | [176 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupp) | 2026-11-01 11:56 | 10 km |
+| 1 | 5.4 | [24 km NNW of Rioblanco, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i) | 2026-11-03 09:13 | 10 km |
+| 2 | 5.3 | [81 km SSE of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy) | 2026-11-02 16:49 | 49 km |
+| 3 | 4.9 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i) | 2026-11-03 13:34 | 144 km |
+| 4 | 4.9 | [101 km SSE of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv51) | 2026-11-03 11:03 | 46 km |
+| 5 | 4.8 | [6 km S of Asahi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3q) | 2026-11-03 05:40 | 52 km |
+| 6 | 4.7 | [74 km E of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv2p) | 2026-11-03 03:13 | 76 km |
+| 7 | 4.6 | [226 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv03) | 2026-11-02 20:54 | 10 km |
+| 8 | 4.5 | [31 km E of Mawlaik, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3l) | 2026-11-03 05:23 | 116 km |
+| 9 | 4.5 | [168 km SE of San Jose Village, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzd) | 2026-11-02 19:59 | 10 km |
+| 10 | 4.3 | [25 km NNE of Camiña, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27) | 2026-11-03 01:41 | 107 km |
 
-[Full report](data/2026/11/2026-11-02.md)
+[Full report](data/2026/11/2026-11-03.md)
