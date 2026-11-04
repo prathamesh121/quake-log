@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-03): 31 quakes
+## Last 24 hours (2026-11-04): 41 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.4 | [24 km NNW of Rioblanco, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i) | 2026-11-03 09:13 | 10 km |
-| 2 | 5.3 | [81 km SSE of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy) | 2026-11-02 16:49 | 49 km |
-| 3 | 4.9 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i) | 2026-11-03 13:34 | 144 km |
-| 4 | 4.9 | [101 km SSE of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv51) | 2026-11-03 11:03 | 46 km |
-| 5 | 4.8 | [6 km S of Asahi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3q) | 2026-11-03 05:40 | 52 km |
-| 6 | 4.7 | [74 km E of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv2p) | 2026-11-03 03:13 | 76 km |
-| 7 | 4.6 | [226 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv03) | 2026-11-02 20:54 | 10 km |
-| 8 | 4.5 | [31 km E of Mawlaik, Burma (Myanmar)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv3l) | 2026-11-03 05:23 | 116 km |
-| 9 | 4.5 | [168 km SE of San Jose Village, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzd) | 2026-11-02 19:59 | 10 km |
-| 10 | 4.3 | [25 km NNE of Camiña, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27) | 2026-11-03 01:41 | 107 km |
+| 1 | 5.2 | [91 km ESE of Kyzyl-Eshme, Kyrgyzstan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj) | 2026-11-03 21:34 | 10 km |
+| 2 | 5.2 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3) | 2026-11-03 18:21 | 10 km |
+| 3 | 5.2 | [Volcano Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie) | 2026-11-03 16:48 | 139 km |
+| 4 | 5.0 | [207 km ESE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj) | 2026-11-04 07:40 | 49 km |
+| 5 | 4.9 | [9 km N of Delta, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064) | 2026-11-03 18:27 | 16 km |
+| 6 | 4.6 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv) | 2026-11-04 00:32 | 556 km |
+| 7 | 4.5 | [99 km ESE of Kyzyl-Eshme, Kyrgyzstan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu9) | 2026-11-03 22:50 | 10 km |
+| 8 | 4.4 | [252 km ENE of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu2) | 2026-11-03 22:27 | 542 km |
+| 9 | 4.3 | [127 km SSW of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvxj) | 2026-11-04 12:14 | 10 km |
+| 10 | 4.2 | [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvvc) | 2026-11-04 02:40 | 429 km |
 
-[Full report](data/2026/11/2026-11-03.md)
+[Full report](data/2026/11/2026-11-04.md)
