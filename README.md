@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-05): 29 quakes
+## Last 24 hours (2026-11-06): 26 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.1 | [19 km NNW of Masumbwe, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76) | 2026-11-05 09:22 | 10 km |
-| 2 | 5.0 | [111 km W of Petrolia, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637) | 2026-11-05 04:56 | 10 km |
-| 3 | 4.8 | [Sea of Okhotsk](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw7b) | 2026-11-05 10:09 | 554 km |
-| 4 | 4.6 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43) | 2026-11-04 21:24 | 502 km |
-| 5 | 4.5 | [South Indian Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3n) | 2026-11-04 20:06 | 10 km |
-| 6 | 4.5 | [2 km W of Chinandega, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k) | 2026-11-04 19:55 | 159 km |
-| 7 | 4.2 | [100 km NNE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2026308001) | 2026-11-04 16:59 | 11 km |
-| 8 | 4.2 | [30 km S of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw4w) | 2026-11-04 19:22 | 75 km |
-| 9 | 4.2 | [47 km SSW of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw2x) | 2026-11-04 18:54 | 199 km |
-| 10 | 4.1 | [226 km ENE of Nagqu, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw53) | 2026-11-05 00:49 | 10 km |
+| 1 | 6.1 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r) | 2026-11-05 17:21 | 535 km |
+| 2 | 5.0 | [130 km NE of Thang, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p) | 2026-11-05 16:56 | 77 km |
+| 3 | 4.9 | [41 km SW of Balangonan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk) | 2026-11-06 06:28 | 35 km |
+| 4 | 4.7 | [139 km SSE of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq) | 2026-11-06 02:35 | 28 km |
+| 5 | 4.6 | [58 km WNW of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb) | 2026-11-06 01:37 | 83 km |
+| 6 | 4.6 | [96 km NNW of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd) | 2026-11-06 00:02 | 98 km |
+| 7 | 4.6 | [147 km SSE of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4) | 2026-11-05 23:04 | 16 km |
+| 8 | 4.6 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twcy) | 2026-11-05 22:34 | 523 km |
+| 9 | 4.6 | [36 km E of Watari, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twaq) | 2026-11-05 18:05 | 87 km |
+| 10 | 4.5 | [87 km N of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu) | 2026-11-06 08:14 | 247 km |
 
-[Full report](data/2026/11/2026-11-05.md)
+[Full report](data/2026/11/2026-11-06.md)
