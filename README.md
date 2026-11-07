@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-06): 29 quakes
+## Last 24 hours (2026-11-07): 33 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 6.1 | [144 km SE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9) | 2026-11-06 10:39 | 29 km |
-| 2 | 4.9 | [41 km SW of Balangonan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk) | 2026-11-06 06:28 | 35 km |
-| 3 | 4.7 | [139 km SSE of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq) | 2026-11-06 02:35 | 28 km |
-| 4 | 4.6 | [58 km WNW of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb) | 2026-11-06 01:37 | 83 km |
-| 5 | 4.6 | [96 km NNW of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd) | 2026-11-06 00:02 | 98 km |
-| 6 | 4.6 | [147 km SSE of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4) | 2026-11-05 23:04 | 16 km |
-| 7 | 4.6 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twcy) | 2026-11-05 22:34 | 523 km |
+| 1 | 5.5 | [74 km NE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq) | 2026-11-07 11:07 | 32 km |
+| 2 | 4.9 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt) | 2026-11-07 11:35 | 10 km |
+| 3 | 4.8 | [36 km WNW of Poso, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr) | 2026-11-06 19:07 | 10 km |
+| 4 | 4.7 | [156 km ESE of Modisi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrh) | 2026-11-07 09:47 | 39 km |
+| 5 | 4.6 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw) | 2026-11-07 07:14 | 104 km |
+| 6 | 4.6 | [11 km ENE of Yigo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqm) | 2026-11-06 22:37 | 113 km |
+| 7 | 4.5 | [57 km SW of Ollagüe, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp) | 2026-11-07 10:53 | 111 km |
 | 8 | 4.5 | [101 km SSE of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twhq) | 2026-11-06 15:26 | 41 km |
-| 9 | 4.5 | [87 km N of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu) | 2026-11-06 08:14 | 247 km |
-| 10 | 4.4 | [185 km NNW of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twf2) | 2026-11-06 04:13 | 510 km |
+| 9 | 4.4 | [92 km W of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqr) | 2026-11-07 06:53 | 50 km |
+| 10 | 4.4 | [75 km SSE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twp3) | 2026-11-06 23:15 | 79 km |
 
-[Full report](data/2026/11/2026-11-06.md)
+[Full report](data/2026/11/2026-11-07.md)
