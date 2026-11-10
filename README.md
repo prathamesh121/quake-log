@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-10): 46 quakes
+## Last 24 hours (2026-11-10): 44 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 6.4 | [30 km WSW of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16) | 2026-11-09 03:34 | 17 km |
-| 2 | 5.7 | [106 km ENE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f) | 2026-11-09 04:52 | 24 km |
-| 3 | 5.4 | [160 km E of Masohi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32) | 2026-11-09 09:48 | 10 km |
-| 4 | 5.3 | [80 km ENE of Lagunas, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38) | 2026-11-09 10:23 | 11 km |
-| 5 | 4.9 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v) | 2026-11-09 23:45 | 176 km |
-| 6 | 4.9 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx47) | 2026-11-09 15:04 | 10 km |
-| 7 | 4.9 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x) | 2026-11-09 02:21 | 136 km |
-| 8 | 4.8 | [149 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6m) | 2026-11-09 19:27 | 10 km |
-| 9 | 4.8 | [183 km E of Masohi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34) | 2026-11-09 09:53 | 10 km |
-| 10 | 4.8 | [26 km SW of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p) | 2026-11-09 05:16 | 10 km |
+| 1 | 5.6 | [43 km S of Puerto San José, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8) | 2026-11-10 14:54 | 35 km |
+| 2 | 5.4 | [Pulau Pulau Tanimbar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d) | 2026-11-10 01:53 | 10 km |
+| 3 | 5.2 | [21 km WNW of Popondetta, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0) | 2026-11-10 17:36 | 124 km |
+| 4 | 5.2 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc3) | 2026-11-10 17:36 | 10 km |
+| 5 | 5.2 | [140 km ESE of Labuha, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi) | 2026-11-10 15:51 | 10 km |
+| 6 | 5.2 | [19 km WSW of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s) | 2026-11-10 03:37 | 10 km |
+| 7 | 5.0 | [58 km NE of Fef, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z) | 2026-11-10 08:34 | 35 km |
+| 8 | 4.9 | [207 km NW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txea) | 2026-11-10 19:54 | 12 km |
+| 9 | 4.9 | [78 km ESE of Hitachi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96) | 2026-11-10 05:20 | 35 km |
+| 10 | 4.9 | [north of Franz Josef Land](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i) | 2026-11-10 02:00 | 10 km |
 
 [Full report](data/2026/11/2026-11-10.md)
