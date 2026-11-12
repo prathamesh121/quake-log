@@ -11,7 +11,7 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-11): 32 quakes
+## Last 24 hours (2026-11-12): 43 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ node scripts/update.mjs
 | 5 | 5.1 | [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi) | 2026-11-11 06:21 | 10 km |
 | 6 | 5.0 | [48 km NW of Ancud, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq) | 2026-11-11 19:21 | 35 km |
 | 7 | 5.0 | [152 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv) | 2026-11-11 05:26 | 30 km |
-| 8 | 4.7 | [152 km WSW of Merizo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0) | 2026-11-11 08:37 | 137 km |
-| 9 | 4.7 | [130 km W of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz) | 2026-11-11 01:45 | 10 km | ⚠️
-| 10 | 4.6 | [64 km NW of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txil) | 2026-11-11 10:57 | 43 km |
+| 8 | 4.9 | [110 km E of Georgetown, Saint Helena](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpa) | 2026-11-11 22:03 | 10 km |
+| 9 | 4.7 | [152 km WSW of Merizo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0) | 2026-11-11 08:37 | 137 km |
+| 10 | 4.7 | [130 km W of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz) | 2026-11-11 01:45 | 10 km | ⚠️
 
-[Full report](data/2026/11/2026-11-11.md)
+[Full report](data/2026/11/2026-11-12.md)
