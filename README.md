@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-12): 43 quakes
+## Last 24 hours (2026-11-13): 32 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.1 | [80 km W of Panguna, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8) | 2026-11-11 17:38 | 59 km |
-| 2 | 5.1 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg) | 2026-11-11 15:39 | 105 km |
-| 3 | 5.1 | [27 km WSW of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis) | 2026-11-11 11:36 | 91 km |
-| 4 | 5.1 | [Pulau Pulau Tanimbar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txir) | 2026-11-11 11:32 | 15 km |
-| 5 | 5.1 | [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi) | 2026-11-11 06:21 | 10 km |
-| 6 | 5.0 | [48 km NW of Ancud, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq) | 2026-11-11 19:21 | 35 km |
-| 7 | 5.0 | [152 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv) | 2026-11-11 05:26 | 30 km |
-| 8 | 4.9 | [110 km E of Georgetown, Saint Helena](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpa) | 2026-11-11 22:03 | 10 km |
-| 9 | 4.7 | [152 km WSW of Merizo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0) | 2026-11-11 08:37 | 137 km |
-| 10 | 4.7 | [130 km W of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz) | 2026-11-11 01:45 | 10 km | ⚠️
+| 1 | 5.8 | [148 km NW of Kavieng, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp) | 2026-11-12 22:04 | 10 km |
+| 2 | 5.2 | [79 km NE of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14) | 2026-11-13 16:17 | 10 km |
+| 3 | 5.2 | [West Chile Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s) | 2026-11-13 14:12 | 10 km |
+| 4 | 5.1 | [39 km S of Moíres, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9) | 2026-11-13 00:05 | 43 km |
+| 5 | 5.1 | [western Indian-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txw9) | 2026-11-12 21:09 | 10 km |
+| 6 | 5.0 | [85 km W of Mwene-Ditu, Democratic Republic of the Congo](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl) | 2026-11-13 01:12 | 10 km |
+| 7 | 4.9 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz3) | 2026-11-13 09:55 | 10 km |
+| 8 | 4.9 | [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy) | 2026-11-13 02:55 | 220 km |
+| 9 | 4.9 | [41 km N of Weining, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw) | 2026-11-12 20:03 | 10 km |
+| 10 | 4.8 | [59 km WSW of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd) | 2026-11-13 11:18 | 163 km |
 
-[Full report](data/2026/11/2026-11-12.md)
+[Full report](data/2026/11/2026-11-13.md)
