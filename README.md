@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-13): 45 quakes
+## Last 24 hours (2026-11-14): 47 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.8 | [79 km WSW of Changuillo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a) | 2026-11-13 16:43 | 10 km |
-| 2 | 5.2 | [79 km NE of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14) | 2026-11-13 16:17 | 10 km |
-| 3 | 5.2 | [West Chile Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s) | 2026-11-13 14:12 | 10 km |
-| 4 | 5.1 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3q) | 2026-11-13 19:04 | 64 km |
-| 5 | 5.1 | [39 km S of Moíres, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9) | 2026-11-13 00:05 | 43 km |
-| 6 | 5.0 | [85 km W of Mwene-Ditu, Democratic Republic of the Congo](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl) | 2026-11-13 01:12 | 10 km |
-| 7 | 4.9 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty4w) | 2026-11-13 22:10 | 37 km |
-| 8 | 4.9 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3g) | 2026-11-13 18:55 | 563 km |
-| 9 | 4.9 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz3) | 2026-11-13 09:55 | 10 km |
-| 10 | 4.9 | [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy) | 2026-11-13 02:55 | 220 km |
+| 1 | 5.5 | [northern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84) | 2026-11-14 09:26 | 10 km |
+| 2 | 5.2 | [State of Yap, Federated States of Micronesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d) | 2026-11-14 06:52 | 10 km |
+| 3 | 5.2 | [off the west coast of northern Sumatra](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n) | 2026-11-14 02:59 | 10 km |
+| 4 | 5.1 | [153 km NW of Kavieng, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56) | 2026-11-13 23:30 | 10 km |
+| 5 | 4.9 | [7 km SE of Tagbina, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l) | 2026-11-14 16:04 | 154 km |
+| 6 | 4.9 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty90) | 2026-11-14 13:17 | 12 km |
+| 7 | 4.8 | [West Chile Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b) | 2026-11-14 06:33 | 10 km |
+| 8 | 4.7 | [24 km S of Yacuiba, Bolivia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z) | 2026-11-14 18:04 | 506 km |
+| 9 | 4.7 | [54 km NW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p) | 2026-11-14 03:18 | 216 km |
+| 10 | 4.6 | [96 km SSE of Pondaguitan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v) | 2026-11-14 16:56 | 65 km |
 
-[Full report](data/2026/11/2026-11-13.md)
+[Full report](data/2026/11/2026-11-14.md)
