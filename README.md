@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-15): 49 quakes
+## Last 24 hours (2026-11-16): 32 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.5 | [9 km E of Union, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek) | 2026-11-15 13:41 | 10 km |
-| 2 | 5.5 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca) | 2026-11-15 05:15 | 470 km |
-| 3 | 5.1 | [169 km NW of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4) | 2026-11-15 15:41 | 487 km |
+| 1 | 5.4 | [95 km WSW of Changuillo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh) | 2026-11-16 16:16 | 10 km |
+| 2 | 5.4 | [20 km NW of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr) | 2026-11-16 04:24 | 274 km |
+| 3 | 5.0 | [68 km S of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil) | 2026-11-16 07:14 | 10 km |
 | 4 | 5.0 | [256 km SSE of Ambon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6) | 2026-11-15 20:51 | 306 km |
-| 5 | 5.0 | [74 km N of Pārūn, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh) | 2026-11-15 17:48 | 101 km |
-| 6 | 4.9 | [44 km S of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga) | 2026-11-15 21:37 | 191 km |
-| 7 | 4.8 | [141 km ESE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk) | 2026-11-15 22:38 | 10 km |
-| 8 | 4.8 | [19 km NW of Albardón, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx) | 2026-11-15 03:59 | 109 km |
-| 9 | 4.7 | [92 km NW of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3) | 2026-11-15 07:36 | 178 km |
-| 10 | 4.6 | [27 km ESE of Union, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyes) | 2026-11-15 14:17 | 10 km |
+| 5 | 4.9 | [44 km S of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga) | 2026-11-15 21:37 | 191 km |
+| 6 | 4.8 | [28 km SW of Changuillo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykk) | 2026-11-16 16:23 | 39 km |
+| 7 | 4.8 | [166 km N of Caluula, Somalia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyjy) | 2026-11-16 13:30 | 10 km |
+| 8 | 4.8 | [141 km ESE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk) | 2026-11-15 22:38 | 10 km |
+| 9 | 4.6 | [113 km ESE of Wadomari, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyjz) | 2026-11-16 13:32 | 10 km |
+| 10 | 4.5 | [78 km S of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyjx) | 2026-11-16 13:25 | 85 km |
 
-[Full report](data/2026/11/2026-11-15.md)
+[Full report](data/2026/11/2026-11-16.md)
