@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-18): 40 quakes
+## Last 24 hours (2026-11-19): 37 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 6.1 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37) | 2026-11-18 19:14 | 10 km |
-| 2 | 5.9 | [85 km WNW of San Juan, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8) | 2026-11-18 06:07 | 22 km |
-| 3 | 5.8 | [40 km N of Ruteng, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi) | 2026-11-18 04:41 | 10 km |
-| 4 | 5.8 | [99 km ESE of Madang, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2) | 2026-11-18 03:42 | 52 km |
-| 5 | 5.8 | [150 km SW of Merizo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi) | 2026-11-18 02:22 | 10 km |
-| 6 | 5.3 | [4 km NNW of Tsunagi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n) | 2026-11-18 17:22 | 10 km |
-| 7 | 5.3 | [149 km SSW of Merizo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a) | 2026-11-18 16:06 | 10 km |
-| 8 | 5.3 | [16 km ESE of Comandău, Romania](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8) | 2026-11-18 00:48 | 130 km |
-| 9 | 5.3 | [7 km SE of Karakenja, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6) | 2026-11-18 00:46 | 10 km |
-| 10 | 5.2 | [86 km NW of Ryōtsu-minato, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyw) | 2026-11-18 09:37 | 10 km |
+| 1 | 6.0 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37) | 2026-11-18 19:14 | 10 km |
+| 2 | 5.2 | [130 km W of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb) | 2026-11-19 01:34 | 10 km |
+| 3 | 5.2 | [169 km S of Attu Station, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3) | 2026-11-18 21:28 | 10 km |
+| 4 | 5.2 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc01) | 2026-11-18 19:21 | 10 km |
+| 5 | 5.0 | [31 km WSW of Rabaul, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1) | 2026-11-19 10:53 | 195 km |
+| 6 | 5.0 | [46 km NNE of Kilimatinde, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz2w) | 2026-11-18 18:08 | 10 km |
+| 7 | 4.9 | [65 km SSW of Atka, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzm) | 2026-11-19 13:05 | 46 km |
+| 8 | 4.9 | [36 km NNE of Kilimatinde, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg) | 2026-11-19 02:11 | 10 km |
+| 9 | 4.8 | [23 km SSE of Guayaquil, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4) | 2026-11-19 05:49 | 69 km |
+| 10 | 4.8 | [40 km NNE of Kilimatinde, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa) | 2026-11-19 01:29 | 10 km |
 
-[Full report](data/2026/11/2026-11-18.md)
+[Full report](data/2026/11/2026-11-19.md)
