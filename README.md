@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-19): 36 quakes
+## Last 24 hours (2026-11-21): 44 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.3 | [South Georgia Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2q) | 2026-11-19 20:07 | 10 km |
-| 2 | 5.2 | [130 km W of Teluk Dalam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb) | 2026-11-19 01:34 | 10 km |
-| 3 | 5.2 | [169 km S of Attu Station, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3) | 2026-11-18 21:28 | 10 km |
-| 4 | 5.1 | [99 km WSW of Illapel, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x) | 2026-11-19 18:09 | 10 km |
-| 5 | 5.0 | [central East Pacific Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2t) | 2026-11-19 20:07 | 10 km |
-| 6 | 5.0 | [31 km WSW of Rabaul, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1) | 2026-11-19 10:53 | 195 km |
-| 7 | 4.9 | [13 km WNW of Xichang, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc26) | 2026-11-19 18:41 | 10 km |
-| 8 | 4.9 | [65 km SSW of Atka, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzm) | 2026-11-19 13:05 | 46 km |
-| 9 | 4.9 | [36 km NNE of Kilimatinde, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg) | 2026-11-19 02:11 | 10 km |
-| 10 | 4.8 | [23 km SSE of Guayaquil, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4) | 2026-11-19 05:49 | 69 km |
+| 1 | 6.8 | [105 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij) | 2026-11-21 09:42 | 132 km |
+| 2 | 6.7 | [9 km NE of Carhuamayo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm) | 2026-11-21 00:09 | 108 km | ⚠️
+| 3 | 5.9 | [238 km SW of Yanglong, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly) | 2026-11-21 10:45 | 10 km |
+| 4 | 5.2 | [112 km SSE of Tateyama, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucky) | 2026-11-21 10:09 | 10 km |
+| 5 | 5.1 | [32 km NE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucd6) | 2026-11-20 17:53 | 95 km |
+| 6 | 5.0 | [0 km NE of Carhuamayo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd) | 2026-11-21 05:12 | 111 km |
+| 7 | 4.9 | [65 km NNW of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2) | 2026-11-21 07:20 | 43 km |
+| 8 | 4.9 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj) | 2026-11-21 02:24 | 10 km |
+| 9 | 4.9 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga) | 2026-11-21 01:26 | 10 km |
+| 10 | 4.9 | [113 km ESE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucf0) | 2026-11-20 22:34 | 10 km |
 
-[Full report](data/2026/11/2026-11-19.md)
+[Full report](data/2026/11/2026-11-21.md)
