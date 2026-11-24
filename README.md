@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-22): 29 quakes
+## Last 24 hours (2026-11-24): 47 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.4 | [224 km NE of Bitung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrb) | 2026-11-22 07:54 | 44 km |
-| 2 | 5.1 | [45 km SE of Ürümqi, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrp) | 2026-11-22 09:08 | 10 km |
-| 3 | 5.0 | [15 km NNE of Carhuamayo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu) | 2026-11-22 05:51 | 108 km |
-| 4 | 4.9 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucs1) | 2026-11-22 10:46 | 83 km |
-| 5 | 4.9 | [246 km ESE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucr3) | 2026-11-22 07:06 | 6 km |
-| 6 | 4.6 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uctj) | 2026-11-22 18:03 | 534 km |
-| 7 | 4.6 | [55 km S of Kūh Sefīd, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uct0) | 2026-11-22 15:05 | 10 km |
-| 8 | 4.6 | [60 km WNW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucpj) | 2026-11-21 23:16 | 31 km |
-| 9 | 4.4 | [6 km NW of Tsunagi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucth) | 2026-11-22 17:46 | 10 km |
-| 10 | 4.4 | [57 km ESE of Dabajuro, Venezuela](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucr4) | 2026-11-22 07:12 | 10 km |
+| 1 | 6.5 | [Vanuatu region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm) | 2026-11-23 02:40 | 598 km | ⚠️
+| 2 | 5.5 | [west of Macquarie Island](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucxi) | 2026-11-23 08:01 | 10 km |
+| 3 | 5.4 | [181 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucx6) | 2026-11-23 07:36 | 119 km |
+| 4 | 5.0 | [159 km ESE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucwd) | 2026-11-23 04:18 | 99 km |
+| 5 | 4.9 | [Vanuatu region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucw1) | 2026-11-23 03:07 | 596 km |
+| 6 | 4.9 | [39 km NW of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvh) | 2026-11-23 02:14 | 10 km |
+| 7 | 4.8 | [209 km SSE of Tobi Village, Palau](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucyd) | 2026-11-23 11:24 | 10 km |
+| 8 | 4.7 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucz2) | 2026-11-23 15:10 | 103 km |
+| 9 | 4.7 | [52 km SW of Tyrma, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucy6) | 2026-11-23 10:39 | 15 km |
+| 10 | 4.7 | [109 km E of Bitung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucws) | 2026-11-23 06:28 | 69 km |
 
-[Full report](data/2026/11/2026-11-22.md)
+[Full report](data/2026/11/2026-11-24.md)
