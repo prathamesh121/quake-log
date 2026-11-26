@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-24): 55 quakes
+## Last 24 hours (2026-11-26): 37 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 6.4 | [Mauritius - Reunion region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h) | 2026-11-24 11:06 | 10 km |
-| 2 | 5.3 | [67 km WNW of Mangan, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3i) | 2026-11-24 01:32 | 10 km |
-| 3 | 5.2 | [93 km WSW of Puerto Madero, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6z) | 2026-11-24 11:51 | 35 km |
-| 4 | 5.0 | [209 km SE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udbn) | 2026-11-24 21:11 | 10 km |
-| 5 | 5.0 | [24 km WNW of Piti Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud73) | 2026-11-24 11:55 | 108 km |
-| 6 | 4.8 | [71 km W of Vallenar, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h) | 2026-11-24 13:22 | 33 km |
-| 7 | 4.7 | [18 km ESE of Güvercinlik, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7z) | 2026-11-24 15:39 | 10 km |
-| 8 | 4.6 | [49 km SW of Ovalle, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8) | 2026-11-24 20:27 | 51 km |
-| 9 | 4.5 | [9 km NNW of La Tronosa, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3m) | 2026-11-24 01:55 | 16 km |
-| 10 | 4.4 | [15 km SW of Kobayashi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud9h) | 2026-11-24 16:41 | 136 km |
+| 1 | 5.3 | [83 km ESE of Hengchun, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef) | 2026-11-25 08:47 | 10 km |
+| 2 | 5.2 | [175 km N of Hicks Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ude3) | 2026-11-25 06:34 | 25 km |
+| 3 | 5.0 | [67 km NNE of Luwuk, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udf2) | 2026-11-25 12:08 | 106 km |
+| 4 | 4.8 | [190 km N of Hicks Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udib) | 2026-11-25 21:32 | 10 km |
+| 5 | 4.7 | [13 km NW of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udht) | 2026-11-25 18:59 | 52 km |
+| 6 | 4.7 | [178 km ESE of Kimbe, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uddj) | 2026-11-25 04:30 | 10 km |
+| 7 | 4.4 | [5 km NNW of Itháki, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udhb) | 2026-11-25 18:07 | 50 km |
+| 8 | 4.3 | [132 km S of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udf9) | 2026-11-25 13:16 | 37 km |
+| 9 | 4.3 | [18 km SSW of Yonakuni, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udew) | 2026-11-25 10:18 | 47 km |
+| 10 | 4.2 | [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udes) | 2026-11-25 10:01 | 10 km |
 
-[Full report](data/2026/11/2026-11-24.md)
+[Full report](data/2026/11/2026-11-26.md)
