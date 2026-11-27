@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Last 24 hours (2026-11-26): 36 quakes
+## Last 24 hours (2026-11-27): 26 quakes
 
 | # | Mag | Location | Time (UTC) | Depth |
 |---|---|---|---|---|
-| 1 | 5.7 | [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udq5) | 2026-11-26 15:26 | 10 km |
-| 2 | 5.5 | [204 km S of Taliwang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udm8) | 2026-11-26 09:08 | 15 km |
-| 3 | 5.2 | [265 km WNW of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udmc) | 2026-11-26 09:22 | 494 km |
-| 4 | 5.2 | [183 km N of Hicks Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx) | 2026-11-26 01:48 | 13 km |
-| 5 | 5.0 | [184 km N of Hicks Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjz) | 2026-11-26 02:09 | 10 km |
-| 6 | 4.8 | [225 km S of Taliwang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udm5) | 2026-11-26 09:00 | 10 km |
-| 7 | 4.8 | [190 km N of Hicks Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udib) | 2026-11-25 21:32 | 10 km |
-| 8 | 4.7 | [13 km NW of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udht) | 2026-11-25 18:59 | 52 km |
-| 9 | 4.6 | [97 km SW of Puerto Madero, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udki) | 2026-11-26 03:30 | 10 km |
-| 10 | 4.5 | [95 km SSE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udqa) | 2026-11-26 16:18 | 173 km |
+| 1 | 5.1 | [107 km SSE of Auki, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt9) | 2026-11-27 00:07 | 74 km |
+| 2 | 5.0 | [Off the coast of Aisen, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udua) | 2026-11-27 04:44 | 10 km |
+| 3 | 5.0 | [89 km SSE of Sola, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udtu) | 2026-11-27 02:13 | 9 km |
+| 4 | 4.8 | [183 km SSE of Vilyuchinsk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udw4) | 2026-11-27 11:02 | 35 km |
+| 5 | 4.6 | [155 km WNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udu6) | 2026-11-27 04:17 | 43 km |
+| 6 | 4.5 | [131 km WNW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udwh) | 2026-11-27 12:48 | 272 km |
+| 7 | 4.3 | [211 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udwp) | 2026-11-27 13:40 | 66 km |
+| 8 | 4.1 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udvv) | 2026-11-27 10:03 | 554 km |
+| 9 | 4.1 | [64 km SSE of Kaş, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt4) | 2026-11-26 23:31 | 31 km |
+| 10 | 3.8 | [132 km NNW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xlmznw) | 2026-11-26 23:52 | 13 km |
 
-[Full report](data/2026/11/2026-11-26.md)
+[Full report](data/2026/11/2026-11-27.md)
